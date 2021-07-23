@@ -1,0 +1,11 @@
+certifi
+click
+colorama
+configparser
+Flask
+itsdangerous
+Jinja2
+MarkupSafe
+Werkzeug
+wincertstore
+waitress
