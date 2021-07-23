@@ -1,1 +1,11 @@
 /app/__pycache__
+/.idea/*.gitignore
+/.idea/*.name
+/.idea/*.iml
+/.idea/inspectionProfiles/*.xml
+/.idea/*.xml
+/app/main/__pycache__/*.pyc
+/app/scan/__pycache__/*.pyc
+/app/scan/kaspersky/__pycache__/*.pyc
+/app/scan/scan_model/__pycache__/*.pyc
+/packages/*.whl
